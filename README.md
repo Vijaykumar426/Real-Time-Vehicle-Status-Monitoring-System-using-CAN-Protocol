@@ -195,13 +195,13 @@ The system consists of **three interconnected CAN nodes**, each responsible for 
 
 ## ⚙ Technologies Used
 
-* 🔹 Embedded C Programming
-* 🔹 CAN Communication Protocol
-* 🔹 ARM7 Microcontroller Architecture
-* 🔹 ADC (Analog to Digital Conversion)
-* 🔹 External Interrupt Handling
-* 🔹 Sensor Interfacing
-* 🔹 Real-Time Embedded Systems
+🔹 Embedded C Programming
+🔹 CAN Communication Protocol
+🔹 ARM7 Microcontroller Architecture
+🔹 ADC (Analog to Digital Conversion)
+🔹 External Interrupt Handling
+🔹 Sensor Interfacing
+🔹 Real-Time Embedded Systems
 
 ---
 
@@ -297,6 +297,16 @@ Through this project, I gained strong knowledge in:
 ✅ External Interrupt Handling  
 ✅ Multi-Node Embedded System Design  
 ✅ Real-Time Data Processing  
+
+---
+
+## ✅ Conclusion
+
+The Real-Time Vehicle Status Monitoring System using CAN Protocol was successfully designed and implemented to improve vehicle safety and monitoring. The system effectively enables communication between multiple nodes using CAN protocol to monitor critical vehicle parameters such as fuel level, indicator status, and airbag deployment in real time.
+
+The project demonstrates reliable multi-node communication, accurate sensor interfacing, and efficient real-time data display on an LCD dashboard. Accident detection using an accelerometer and indicator control through external interrupts further enhance the system’s practical automotive applications.
+
+Overall, this project provides strong practical knowledge in embedded systems, microcontroller programming, communication protocols, and real-time automotive system design.
 
 ---
 
