@@ -195,13 +195,13 @@ The system consists of **three interconnected CAN nodes**, each responsible for 
 
 ## ⚙ Technologies Used
 
-🔹 Embedded C Programming
-🔹 CAN Communication Protocol
-🔹 ARM7 Microcontroller Architecture
-🔹 ADC (Analog to Digital Conversion)
-🔹 External Interrupt Handling
-🔹 Sensor Interfacing
-🔹 Real-Time Embedded Systems
+🔹 Embedded C Programming  
+🔹 CAN Communication Protocol  
+🔹 ARM7 Microcontroller Architecture  
+🔹 ADC (Analog to Digital Conversion)  
+🔹 External Interrupt Handling  
+🔹 Sensor Interfacing  
+🔹 Real-Time Embedded Systems  
 
 ---
 
