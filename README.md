@@ -1,0 +1,2 @@
+# Real-Time-Vehicle-Status-Monitoring-System-using-CAN-Protocol
+Developed a multi-node automotive dashboard system using LPC2129 ARM7 microcontroller.  Implemented fuel monitoring via ADC, indicator control using interrupts, and real-time data exchange  over CAN bus. Integrated MMA7660FC accelerometer through I2C for vehicle tilt detection and airbag  alert system.  Displayed vehicle status on 16x4 LCD. 
