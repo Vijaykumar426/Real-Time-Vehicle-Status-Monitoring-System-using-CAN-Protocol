@@ -302,40 +302,40 @@ Through this project, I gained strong knowledge in:
 
 ## 🚀 Applications
 
-🚘 Automotive Safety Systems
-📡 Vehicle Diagnostics
-🚚 Fleet Management
-⚠ Accident Detection & Alert Systems
-🛠 Real-Time Vehicle Health Monitoring
+🚘 Automotive Safety Systems  
+📡 Vehicle Diagnostics  
+🚚 Fleet Management  
+⚠ Accident Detection & Alert Systems  
+🛠 Real-Time Vehicle Health Monitoring  
 
 ---
 
 ## 🔮 Future Enhancements
 
-* 📍 GPS-based Accident Location Tracking
-* 📶 GSM Module for Emergency Alerts
-* 📱 Mobile App Integration
-* ☁ Cloud-Based Vehicle Diagnostics
-* 🎥 Camera-Based Driver Monitoring
-* 🔋 Advanced Sensor Integration
+📍 GPS-based Accident Location Tracking  
+📶 GSM Module for Emergency Alerts  
+📱 Mobile App Integration  
+☁ Cloud-Based Vehicle Diagnostics  
+🎥 Camera-Based Driver Monitoring  
+🔋 Advanced Sensor Integration  
 
 ---
 
 ## 👨‍💻 Author
 
 **Vijay Kumar**
-🎓 B.Tech – Electronics & Communication Engineering
-💼 Embedded Systems & Trainee
-📍 India
+🎓 B.Tech – Electronics & Communication Engineering  
+💼 Embedded Systems & Trainee  
+📍 India  
 
 ---
 
 ## ⭐ Project Status
 
-* ✅ Completed
-* 🧪 Tested on Hardware
-* 📡 CAN Communication Verified
-* 📟 Real-Time Monitoring Successful
+✅ Completed  
+🧪 Tested on Hardware  
+📡 CAN Communication Verified  
+📟 Real-Time Monitoring Successful  
 
 ---
 
