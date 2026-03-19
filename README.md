@@ -49,6 +49,8 @@ To enhance vehicle safety by designing a distributed embedded system that monito
 
 ## 🧠 System Architecture
 
+<img width="1264" height="843" alt="image" src="https://github.com/user-attachments/assets/3f166850-5287-44e7-82ea-2f15c7c0a05e" />
+
 The system consists of **three interconnected CAN nodes**, each responsible for specific vehicle operations.
 
 ### 🔹 1️⃣ Main Node
