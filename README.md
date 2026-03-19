@@ -325,17 +325,17 @@ Through this project, I gained strong knowledge in:
 
 **Vijay Kumar**
 🎓 B.Tech – Electronics & Communication Engineering
-💼 Embedded Systems & Software Developer
+💼 Embedded Systems & Trainee
 📍 India
 
 ---
 
 ## ⭐ Project Status
 
-✅ Completed
-🧪 Tested on Hardware
-📡 CAN Communication Verified
-📟 Real-Time Monitoring Successful
+* ✅ Completed
+* 🧪 Tested on Hardware
+* 📡 CAN Communication Verified
+* 📟 Real-Time Monitoring Successful
 
 ---
 
