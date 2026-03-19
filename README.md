@@ -341,11 +341,11 @@ Through this project, I gained strong knowledge in:
 
 ## 🔗 How to Run the Project
 
-1️⃣ Compile code using Keil µVision
-2️⃣ Generate HEX file
-3️⃣ Flash into LPC2129 using Flash Magic
-4️⃣ Power the hardware kit
-5️⃣ Observe real-time vehicle data on LCD
+-1️⃣ Compile code using Keil µVision
+-2️⃣ Generate HEX file
+-3️⃣ Flash into LPC2129 using Flash Magic
+-4️⃣ Power the hardware kit
+-5️⃣ Observe real-time vehicle data on LCD
 
 ---
 
