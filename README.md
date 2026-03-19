@@ -36,14 +36,14 @@ To enhance vehicle safety by designing a distributed embedded system that monito
 
 <img align="right" width="260" src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png">
 
-✔ Real-time vehicle parameter monitoring
-✔ Multi-node CAN communication
-✔ Fuel level sensing using ADC
-✔ Accident detection using accelerometer
-✔ Airbag deployment status indication
-✔ Indicator control using external interrupts
-✔ LCD-based vehicle dashboard display
-✔ Reliable and fast data transmission
+✔ Real-time vehicle parameter monitoring  
+✔ Multi-node CAN communication  
+✔ Fuel level sensing using ADC  
+✔ Accident detection using accelerometer  
+✔ Airbag deployment status indication  
+✔ Indicator control using external interrupts  
+✔ LCD-based vehicle dashboard display  
+✔ Reliable and fast data transmission  
 
 ---
 
@@ -290,13 +290,13 @@ LCD display showing RIGHT indicator activation with real-time vehicle parameter 
 
 Through this project, I gained strong knowledge in:
 
-✅ Embedded C Programming
-✅ CAN Protocol Implementation
-✅ LPC2129 Microcontroller Architecture
-✅ ADC & Sensor Interfacing
-✅ External Interrupt Handling
-✅ Multi-Node Embedded System Design
-✅ Real-Time Data Processing
+✅ Embedded C Programming  
+✅ CAN Protocol Implementation  
+✅ LPC2129 Microcontroller Architecture  
+✅ ADC & Sensor Interfacing  
+✅ External Interrupt Handling  
+✅ Multi-Node Embedded System Design  
+✅ Real-Time Data Processing  
 
 ---
 
