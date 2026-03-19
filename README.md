@@ -247,16 +247,20 @@ All vehicle data is shown on LCD in real time.
 
 ## 📷 Project Demonstration
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d45fad53-d0a5-4e14-91e7-211f80c3289c" />
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/d0add10d-f479-48e8-980e-2dc6fc9829c7" />
+
 
 This image shows the hardware setup of the Real-Time Vehicle Status Monitoring System using CAN Protocol.
+
 Multiple LPC2129 boards are connected through CAN communication to form different nodes. The system monitors vehicle parameters like fuel level, indicator status, and airbag condition in real time.
+
 The LCD display shows live vehicle data, LEDs indicate signal status, and sensors simulate fuel level and accident detection. This setup demonstrates successful multi-node communication and real-time vehicle monitoring.
 
 📟 LCD Output – Fuel Level Display
 <img width="943" height="520" alt="image" src="https://github.com/user-attachments/assets/13a13c1c-c79a-4322-8e32-bc9bb75420d1" />
 
 This image shows the LCD display of the vehicle dashboard.
+
 It indicates the fuel level as 98%, while the indicator and airbag systems are currently in OFF state.
 The display confirms proper fuel sensor reading and real-time data update through CAN communication.
 
@@ -264,6 +268,7 @@ The display confirms proper fuel sensor reading and real-time data update throug
 <img width="1045" height="673" alt="image" src="https://github.com/user-attachments/assets/c5c47824-9593-4fc9-989e-83fe827de072" />
 
 This image shows the LCD dashboard displaying vehicle status during an emergency condition.
+
 The airbag system is turned ON, indicating accident detection, while the indicator remains OFF. Fuel level is displayed as 100%.
 This confirms proper accident detection and airbag status indication through the CAN-based monitoring system.
 
